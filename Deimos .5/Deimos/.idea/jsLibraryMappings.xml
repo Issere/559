@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/DeimosGLShadersTest.html" libraries="{WebGL, twgl-full}" />
+    <file url="file://$PROJECT_DIR$/Depreciated/skyboxBU.js" libraries="{WebGL}" />
+    <file url="file://$PROJECT_DIR$/Depreciated/skyboxOld.js" libraries="{WebGL}" />
+    <file url="file://$PROJECT_DIR$/ExampleObjects/simplest.js" libraries="{WebGL, twgl-full}" />
+    <file url="file://$PROJECT_DIR$/ObjLoader.js" libraries="{WebGL, twgl-full}" />
+    <file url="file://$PROJECT_DIR$/Ships/deimos.js" libraries="{WebGL}" />
+    <file url="file://$PROJECT_DIR$/Spliiines.js" libraries="{WebGL, twgl-full}" />
+    <file url="file://$PROJECT_DIR$/Sun.js" libraries="{WebGL, twgl-full}" />
+    <file url="file://$PROJECT_DIR$/deimosHelper.js" libraries="{WebGL, twgl-full}" />
+    <file url="file://$PROJECT_DIR$/glHelper.js" libraries="{WebGL, twgl-full}" />
+    <file url="file://$PROJECT_DIR$/skybox.js" libraries="{WebGL, twgl-full}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+  </component>
+</project>
